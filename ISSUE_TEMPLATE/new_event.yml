@@ -1,0 +1,14 @@
+name: New Event
+description: Add a new event as an issue so it can be automatically tracked by the dashboard.
+title: Enter a name for this event
+projects:
+  - con/6
+assignees:
+  - CodyCBakerPhD
+body:
+  - type: input
+    attributes:
+      label: Event
+      description: Drop links and/or describe this event.
+    validations:
+      required: true
