@@ -4,7 +4,7 @@ title: Enter a name for this event
 projects:
   - con/6
 assignees:
-  - CodyCBakerPhD
+  - yarikoptic
 body:
   - type: input
     attributes:
