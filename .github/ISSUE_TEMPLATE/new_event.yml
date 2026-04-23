@@ -1,6 +1,7 @@
 name: New Event
 description: Add a new event as an issue so it can be automatically tracked by the dashboard.
 title: Enter a name for this event
+type: Task 
 projects:
   - con/6
 assignees:
