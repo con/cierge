@@ -7,7 +7,7 @@ projects:
 assignees:
   - yarikoptic
 body:
-  - type: input
+  - type: textarea
     attributes:
       label: Event
       description: Drop links and/or describe this event.
